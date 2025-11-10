@@ -98,7 +98,7 @@ This ensures:
 - Ease of review for instructors who open only a single exercise folder.
 - No dependency on global or root configuration.
 
-Note: The root folder contains .gitignore, README.md, and tsconfig.json to manage repository-wide settings and TypeScript configuration.
+Note: The root folder contains .gitignore, README.md, and tsconfig.json to manage repository wide settings and TypeScript configuration.
 
 ## 🧩 Topics Covered
 
@@ -122,11 +122,11 @@ Note: The root folder contains .gitignore, README.md, and tsconfig.json to manag
 
 ---
 
-## ✍️ Author
+## ✍🏻 Author
 
 **Briand Alpa**  
-🚀 Career Switcher from Video Editor and Motion Graphics Animator into **Fullstack Web Developer**.  
-🎓 Learning fullstack software development at Purwadhika Digital Technology School.
+🚀 Career switcher from video editing and motion graphics animation to **fullstack web development**.  
+🎓 Currently learning at Purwadhika Digital Technology School.
 
 ---
 
