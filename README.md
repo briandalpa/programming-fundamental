@@ -1,6 +1,6 @@
 # 🧠 Programming Fundamentals
 
-This repository contains all assignments and exercises from the **Programming Fundamentals** module of Purwadhika AI Fullstack Software Development Bootcamp.
+This repository contains all assignments and exercises from the **Programming Fundamentals** module of Purwadhika AI Fullstack Software Development Program.
 
 Each folder represents a different class session or topic, containing multiple exercises written in **TypeScript**.
 
@@ -49,7 +49,7 @@ Bun can run TypeScript files directly, without compiling manually.
 
 2. **Run any TypeScript file**
    ```bash
-   bun run 01-intro-to-programming/exercise-01.ts
+   bun 01-intro-to-programming/exercise-01.ts
    ```
 
 ---
